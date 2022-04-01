@@ -18,7 +18,7 @@ class MisCursos extends StatelessWidget {
             child: Column(
               children: [
                 
-                Text("ESTAS EN LA PAGINA MIS CONTACTOS",
+                Text("ESTAS EN LA PAGINA MIS CURSOS",
                 style: TextStyle(fontSize: 15,color: Colors.blue,),
                 
                 )

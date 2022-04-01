@@ -17,7 +17,7 @@ class RedesSociales extends StatelessWidget {
             
             child: Column(
               children: [
-                Text("ESTAS EN LA PAGINA MIS CONTACTOS",style: TextStyle(fontSize: 15,color: Colors.red,),),
+                Text("ESTAS EN LA PAGINA MIS REDES SOCIALES",style: TextStyle(fontSize: 15,color: Colors.red,),),
                 
                
               ],
