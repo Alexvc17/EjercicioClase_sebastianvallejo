@@ -1,0 +1,11 @@
+//crear una aplicacion en flutter que por medio de un boton de tipo 
+//floattingactionbutton de un scaffold presente en pantalla un simple dialog con un menu 4 de opciones
+//idenfiticandod cada opcion con un icono y cada opcion debe redirigir a la pagina especificada; cada pagina debe tener algun tipo de 
+//estilo diferente en el app bar, tipo de fuente para distinguirla; cada pagina en el body o en su contenido deberia decir te encuentras 
+//en la pagina mis contactos, redes, cuenta, datos personales"
+
+//Pagina 1: Mis contactos - Usar tipo de fuente
+//Pagina 2: Redes sociales
+//Pagina 3: datos personales
+//Pagina 3: Mis cursos
+
